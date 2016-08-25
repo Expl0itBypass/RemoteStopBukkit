@@ -1,0 +1,5 @@
+name: RemoteStopBukkit
+main: com.gmail.lynx7478.remotestop.bukkit.RemoteStop
+author: SKA4
+version: 1.0
+description: Stop all your servers at once. Bukkit/Spigot branch.
